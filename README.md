@@ -58,7 +58,7 @@ https://docs.microsoft.com/en-us/azure/purview/tutorial-using-rest-apis#create-a
   
     - CONNECTION_URI : add the connection string of the your Atlas cluster 6.0+.
     - DATABASE_TO_WATCH : Name of the MongoDB Database you created in Step 1.
-    - CLIENT_ID : Client_ID which you got from Step 2D
+    - CLIENT_ID : Client_ID which you got from Step 2C
     - CLIENT_SECRET : Client_secret which you got from Step 2C
     - TENANT_ID : Go to Azure portal -> Microsoft Purview account -> Properties -> Copy the "Managed identity tenant ID"
     - GUID : Go to Azure portal -> Microsoft Purview account. Click on 'Open Microsoft Purview governance portal'. Click on Browse assets -> By Source Type-> Click on the name -> You should see your GUID in the page url.
